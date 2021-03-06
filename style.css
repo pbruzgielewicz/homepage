@@ -2,14 +2,14 @@ body {
   background: #fefefe;
 }
 
-h2 {
+.secondary-heading {
   color: #1460aa;
 }
 
-h3 {
+.special-heading {
   color: tomato;
 }
 
-.patriarch-header {
+.main-heading{
   color: #7e007b;
 }
